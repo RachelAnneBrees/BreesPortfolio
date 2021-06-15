@@ -7,7 +7,7 @@ body {
 
 h1 {
 	font-size: 32px;
-  font-family: Palatino, 'Palatino Linotype', serif;
+  font-family: Raleway, 'Palatino Linotype', serif;
   color: rgb(46,105,163);
 }
 
@@ -19,7 +19,7 @@ h2 {
 .hero {
 	padding: 250px 0;
 	margin: 30px;
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-family: Marzo, Helvetica, sans-serif;
   color: #ffffff;
   background-image:url("https://content.codecademy.com/projects/make-a-website/lesson-2/bg.jpg");
   background-size: cover;
