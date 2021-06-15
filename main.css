@@ -5,16 +5,19 @@ body {
 	width: 100%;
 }
 
+header nav {
+  display: flex;
+  justify-content: flex-end;
+
 h1 {
 	font-size: 32px;
   font-family: Raleway, 'Palatino Linotype', serif;
-  color: rgb(46,105,163);
+  color: #17B2D1;
 }
 
 h2 {
-	font-size: 56px;
+	font-size: 20px;
 }
-
 
 .hero {
 	padding: 250px 0;
@@ -28,12 +31,6 @@ h2 {
 
 p {
   font-size: 2rem;
-}
-
-.hero a {
-	color: #00FFAA;
-	font-size: 1.25em;
-	text-decoration: none;
 }
 
 #footer {
